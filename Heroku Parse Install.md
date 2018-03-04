@@ -37,9 +37,9 @@
 ```swift
 private func configureParse() {
     let configuration = ParseClientConfiguration {
-      $0.applicationId = "gzdnZP8YHmstnCCBDYbp"
-      $0.clientKey = "8wRTFwQGyMQdHRRfotMD"
-      $0.server = "https://crudit.herokuapp.com/parse"
+      $0.applicationId = "xxxx"
+      $0.clientKey = "xxxxx"
+      $0.server = "https://yourappname.herokuapp.com/parse"
     }
     Parse.initialize(with: configuration)
     let testObject = PFObject(className: "TestObject")
