@@ -1,7 +1,7 @@
 # Parse-Starter-Files-LHL
 Instructions and starter image for Open Source Parse (Lighthouse Labs)
 
-**TODO**
+## TODO
 
 * Install Home Brew package manager.
 * Install Carthage using Home Brew.
